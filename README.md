@@ -1,7 +1,7 @@
-Hi my name is Tyogo. I'm currently enrolled at Computer Science major in BINUS @Alam Sutera. I code since middle school. I love banana. 
+Hi my name is Tyogo. I'm currently enrolled at Computer Science major in BINUS, currently streaming in AI. I love banana 🍌! 
 
 - 👀 I’m interested in data scraping, AI, data science, and IoT
-- 🌱 I stucked at learning web development, so I left it for now.
+- 🌱 Currently working part time @BINUS IT DIVISION, working using ReactJS (FE) & C# (BE)
 - 📫 How to reach me?
       TWITTER: @dionisius_tyogo
 
