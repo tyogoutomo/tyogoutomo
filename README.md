@@ -2,9 +2,7 @@ Hi my name is Tyogo. I'm currently enrolled at Computer Science major in BINUS, 
 
 - 👀 I’m interested in data scraping, AI, data science, and IoT
 
-  
 - 🌱 Currently working part time @BINUS IT DIVISION, working using ReactJS (FE) & C# (BE)
-
   
 - 📫 How to reach me?
       TWITTER: @dionisius_tyogo
