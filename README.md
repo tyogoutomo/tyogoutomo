@@ -1,7 +1,7 @@
 <h2>About Me</h2>
 <p align="justify" style="color: yellow">
 <h4>(In Brief)</h4>
-<code>Hi my name is Tyogo, currently enrolled in Computer Science major at BINUS University with streaming in AI; <i>"oh and I love banana</i> 🍌<i>!</i>
+<code>Hi my name is Tyogo, currently enrolled in Computer Science major at BINUS University with streaming in AI
 </code>
 <br>
 <code>Briefly on what I am into:</code>
