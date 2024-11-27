@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tyogoutomo/static/css/main.ae42ac5f.css",
+    "main.js": "/tyogoutomo/static/js/main.55532c36.js",
+    "index.html": "/tyogoutomo/index.html",
+    "main.ae42ac5f.css.map": "/tyogoutomo/static/css/main.ae42ac5f.css.map",
+    "main.55532c36.js.map": "/tyogoutomo/static/js/main.55532c36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.55532c36.js"
+  ]
+}
